@@ -87,3 +87,19 @@ Counted number of customers in each segment to support targeted campaigns.
 
 - **SQL** MySQL
 ---
+
+## 💡 Key Insights
+
+- **High-value customers** (purchased >30 units) make up a small but significant portion of revenue.
+- **Top 10 products** account for the majority of total sales.
+- **Product categories** show variable performance — focus needed on high-margin categories.
+- Monthly sales show a steady growth trend with seasonal spikes.
+
+---
+
+## 📞 Connect With Me
+
+- 💼 [LinkedIn](www.linkedin.com/in/akash-saini1905)
+- 📧 akashkumarsaini4655@gmail.com 
+---
+
